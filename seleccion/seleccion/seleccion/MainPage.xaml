@@ -23,7 +23,8 @@
 
         <Image Source="escudo.jpg" ></Image>
         <Image Source="equipo.jpg" Grid.Column="2" Grid.Row="4" Grid.ColumnSpan="2" ></Image>
-        
+        <Image Source="falcaoGarcia.jpg" Grid.Column="2" Grid.Row="2" Grid.ColumnSpan="1" ></Image>
+
     </Grid>
           
 
